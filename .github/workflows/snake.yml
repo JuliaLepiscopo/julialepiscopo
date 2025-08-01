@@ -23,6 +23,9 @@ on:
 
       - main
 
+permissions:
+  content: write
+
 
 jobs:
 
