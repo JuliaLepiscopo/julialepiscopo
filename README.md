@@ -21,4 +21,4 @@
 
 "A tecnologia não é o futuro, é o presente em constante evolução."
 
-
+<img src="https://raw.githubusercontent.com/JuliaLepiscopo/JuliaLepiscopo/output/snake.svg" alt="Snake animation" />
