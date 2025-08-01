@@ -21,3 +21,4 @@
 
 "A tecnologia não é o futuro, é o presente em constante evolução."
 
+![snake gif](https://github.com/JuliaLepiscopo/JuliaLepiscopo/blob/output/github-snake-dark.svg)
