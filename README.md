@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./foto_github.jpeg" alt="Banner Julia Lepiscopo" width="100%">
+  <img src="./img_github.jpeg" alt="Banner Julia Lepiscopo" width="100%">
 </p>
 
 # Olá, eu sou a Julia Lepiscopo! 👋
