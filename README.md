@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./cosmos_27324024.jpeg" alt="Banner Julia Lepiscopo" width="100%">
+  <img src="./foto_github.jpeg" alt="Banner Julia Lepiscopo" width="100%">
 </p>
 
 # Olá, eu sou a Julia Lepiscopo! 👋
