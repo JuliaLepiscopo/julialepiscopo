@@ -1,10 +1,22 @@
+<p align="center">
+  <img src="./cosmos_27324024.jpeg" alt="Banner Julia Lepiscopo" width="100%">
+</p>
+
 # Olá, eu sou a Julia Lepiscopo! 👋
 
 Atualmente atuo como **Desenvolvedora Backend e DevOps na China Link**. Sou apaixonada por criar soluções escaláveis, automatizar processos e transformar dados em experiências visuais sofisticadas.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-lepiscopo/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](SEU_LINK_AQUI)
-[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](SEU_LINK_AQUI)
+<p align="center">
+  <a href="https://www.linkedin.com/in/julia-lepiscopo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+  </a>
+  <a href="SEU_LINK_INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="SEU_LINK_BLOGGER">
+    <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
+  </a>
+</p>
 
 ---
 
@@ -31,7 +43,9 @@ Atualmente atuo como **Desenvolvedora Backend e DevOps na China Link**. Sou apai
 
 ### 📊 Estatísticas
 
-![Lepiscopo GitHub stats](https://github-readme-stats.vercel.app/api?username=julialepiscopo&show_icons=true&theme=radical&rank_icon=github&display_format=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=julialepiscopo&show_icons=true&theme=radical&rank_icon=github&display_format=compact" alt="Estatísticas Julia" />
+</p>
 
 ---
 
@@ -39,4 +53,6 @@ Atualmente atuo como **Desenvolvedora Backend e DevOps na China Link**. Sou apai
 
 > "A tecnologia não é o futuro, é o presente em constante evolução."
 
-![snake gif](https://github.com/JuliaLepiscopo/JuliaLepiscopo/blob/output/github-snake-dark.svg)
+<p align="center">
+  <img src="https://github.com/JuliaLepiscopo/JuliaLepiscopo/blob/output/github-snake-dark.svg" alt="snake gif" />
+</p>
