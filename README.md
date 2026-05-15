@@ -50,5 +50,5 @@ Olá! Meu nome é Julia, tenho 20 anos e gosto de transformar lógica em soluç�
 ---
 
 <p align="center">
-  <img src="https://github.com/JuliaLepiscopo/JuliaLepiscopo/blob/output/github-snake-dark.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/JuliaLepiscopo/JuliaLepiscopo/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" />
 </p>
