@@ -2,9 +2,7 @@ name: Generate Pac-Man Game
 
 on:
   schedule:
-    # Roda automaticamente a cada 24 horas
     - cron: "0 0 * * *"
-  # Permite rodar manualmente a qualquer momento pela aba 'Actions'
   workflow_dispatch:
 
 jobs:
@@ -15,19 +13,11 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      # Gera a animação do Pac-Man com tema escuro (Dark)
-      - name: Generate pacman-contribution-graph.svg
+      - name: Generate Pac-Man Animation
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: JuliaLepiscopo
 
-      # PASSO NOVO: O computador temporário cria a pasta dist e move o SVG para lá
-      - name: Move SVG to dist folder
-        run: |
-          mkdir -p dist
-          mv *.svg dist/
-
-      # Faz o commit automático da pasta dist para a sua branch 'output'
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
